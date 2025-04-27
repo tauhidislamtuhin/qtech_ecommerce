@@ -10,7 +10,7 @@
 - BLoC
 
 ## Note:
-- ** There is no variable or field named Favorite in this API, so a dummy product id has been used here where even numbers are shown as Favorites and odd numbers as Normal.**
+** - There is no variable or field named Favorite in this API, so a dummy product id has been used here where even numbers are shown as Favorites and odd numbers as Normal.**
 - ** In this API, all products have stock greater than 0, so there was no opportunity to show stock here, but to show if it works, it is shown via a product ID.**
 
 ### Home Screen

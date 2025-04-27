@@ -1,19 +1,13 @@
 # QTech Ecommerce
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Product List
+- Fetch products from https://dummyjson.com/products
+- Pagination: Load more products on scroll
+## Search & Filters
+- Search: Search products by name
+- Sorting: Price (low-high), rating.
+## State Management
+- BLoC
 
 ### Home Screen
 ![home](https://github.com/user-attachments/assets/d2b34874-c5da-4e73-9208-82d0889eb3bc)

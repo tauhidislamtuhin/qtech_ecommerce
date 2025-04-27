@@ -13,7 +13,7 @@
 - There is no variable or field named Favorite in this API, so a dummy product id has been used here where even numbers are shown as Favorites and odd numbers as Normal.
 - In this API, all products have stock greater than 0, so there was no opportunity to show stock here, but to show if it works, it is shown via a product ID.
 
-## <ins>UI Design ScreenShot</ins>
+## UI Design ScreenShot
 
 ### Home Screen
 ![home](https://github.com/user-attachments/assets/d2b34874-c5da-4e73-9208-82d0889eb3bc)

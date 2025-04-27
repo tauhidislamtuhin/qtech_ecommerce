@@ -16,19 +16,20 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 ### Home Screen
-![Image](https://github.com/user-attachments/assets/8382173f-0311-402d-878b-357b56f5405c)
+![home](https://github.com/user-attachments/assets/d2b34874-c5da-4e73-9208-82d0889eb3bc)
 
 ### Sort by Name
-![Image](https://github.com/user-attachments/assets/51a94954-55b6-4189-8d12-05866f757a32)
+![sort by name](https://github.com/user-attachments/assets/fb3e476e-6b80-402b-9b8a-54ee8032b6e8)
 
 ### Show BottomSheet
-![show bottom sheet](https://github.com/user-attachments/assets/6d3fc321-4389-4086-8416-96948dce2bc1)
+![show bottom sheet](https://github.com/user-attachments/assets/aa5f3038-a357-4e49-a5ce-1b510afcbf5b)
 
 ### Sort by Price (High to Low
-![sort by high-to-low](https://github.com/user-attachments/assets/a38cd93a-ce99-4007-9958-05a562e4209d)
+![sort by high-to-low](https://github.com/user-attachments/assets/560b656b-ca93-4b1c-aac8-908951a68155)
 
 ### Sort by Price (Low to High)
-![sort by low-to-high](https://github.com/user-attachments/assets/15c7d87c-2a2a-4c4b-b04e-cc56099d5857)
+![sort by low-to-high](https://github.com/user-attachments/assets/2d1f1f7a-a213-4241-8f52-a5e6766f5a68)
 
 ### Sort by Rating (Hight to Low)
-![sort by rating](https://github.com/user-attachments/assets/0e38a69e-dd4a-47ba-b65f-b43fa8a82213)
+![sort by rating](https://github.com/user-attachments/assets/05a9341b-b8a0-46c1-ae63-5c49118ee74b)
+

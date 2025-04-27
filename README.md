@@ -24,10 +24,10 @@ samples, guidance on mobile development, and a full API reference.
 ### Show BottomSheet
 ![show bottom sheet](https://github.com/user-attachments/assets/6d3fc321-4389-4086-8416-96948dce2bc1)
 
-### Sort by Price (Low to High)
+### Sort by Price (High to Low
 ![sort by high-to-low](https://github.com/user-attachments/assets/a38cd93a-ce99-4007-9958-05a562e4209d)
 
-### Sort by Price (High to Low)
+### Sort by Price (Low to High)
 ![sort by low-to-high](https://github.com/user-attachments/assets/15c7d87c-2a2a-4c4b-b04e-cc56099d5857)
 
 ### Sort by Rating (Hight to Low)

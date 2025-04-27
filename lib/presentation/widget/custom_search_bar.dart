@@ -23,7 +23,7 @@ class CustomSearchBar extends StatelessWidget {
                         : MediaQuery.sizeOf(context).width - 20,
                     decoration: BoxDecoration(
                       color: Colors.transparent,
-                      border: Border.all(color: Colors.black),
+                      border: Border.all(color: Colors.black,width: 0.3),
                       borderRadius: BorderRadius.circular(8),
                     ),
                     child: TextFormField(

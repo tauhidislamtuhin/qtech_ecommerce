@@ -1,4 +1,4 @@
-# qtech_ecommerce
+# QTech_ecommerce
 
 A new Flutter project.
 
